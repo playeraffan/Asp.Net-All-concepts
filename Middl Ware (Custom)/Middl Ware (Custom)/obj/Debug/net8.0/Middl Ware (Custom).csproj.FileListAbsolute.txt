@@ -1,0 +1,29 @@
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\bin\Debug\net8.0\appsettings.json
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\bin\Debug\net8.0\Middl Ware (Custom).staticwebassets.endpoints.json
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\bin\Debug\net8.0\Middl Ware (Custom).exe
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\bin\Debug\net8.0\Middl Ware (Custom).deps.json
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\bin\Debug\net8.0\Middl Ware (Custom).runtimeconfig.json
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\bin\Debug\net8.0\Middl Ware (Custom).dll
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\bin\Debug\net8.0\Middl Ware (Custom).pdb
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\Middl Ware (Custom).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\Middl Ware (Custom).AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\Middl Ware (Custom).AssemblyInfo.cs
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\Middl Ware (Custom).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\Middl Ware (Custom).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\scopedcss\bundle\Middl Ware (Custom).styles.css
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\staticwebassets\msbuild.Middl Ware (Custom).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\staticwebassets\msbuild.Middl Ware (Custom).Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\staticwebassets\msbuild.build.Middl Ware (Custom).props
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Middl Ware (Custom).props
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Middl Ware (Custom).props
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\Middl Ware (Custom).dll
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\refint\Middl Ware (Custom).dll
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\Middl Ware (Custom).pdb
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\Middl Ware (Custom).genruntimeconfig.cache
+C:\Users\my pc\source\repos\ASP.net\Middl Ware (Custom)\Middl Ware (Custom)\obj\Debug\net8.0\ref\Middl Ware (Custom).dll

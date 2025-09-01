@@ -1,0 +1,34 @@
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\bin\Debug\net8.0\appsettings.json
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\bin\Debug\net8.0\Razor Syntax.staticwebassets.runtime.json
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\bin\Debug\net8.0\Razor Syntax.staticwebassets.endpoints.json
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\bin\Debug\net8.0\Razor Syntax.exe
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\bin\Debug\net8.0\Razor Syntax.deps.json
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\bin\Debug\net8.0\Razor Syntax.runtimeconfig.json
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\bin\Debug\net8.0\Razor Syntax.dll
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\bin\Debug\net8.0\Razor Syntax.pdb
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\Razor Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\Razor Syntax.AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\Razor Syntax.AssemblyInfo.cs
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\Razor Syntax.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\Razor Syntax.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\Razor Syntax.RazorAssemblyInfo.cache
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\Razor Syntax.RazorAssemblyInfo.cs
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\scopedcss\bundle\Razor Syntax.styles.css
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\scopedcss\projectbundle\Razor Syntax.bundle.scp.css
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\staticwebassets\msbuild.Razor Syntax.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\staticwebassets\msbuild.Razor Syntax.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\staticwebassets\msbuild.build.Razor Syntax.props
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Razor Syntax.props
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Razor Syntax.props
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\Razor Syntax.dll
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\refint\Razor Syntax.dll
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\Razor Syntax.pdb
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\Razor Syntax.genruntimeconfig.cache
+C:\Users\my pc\source\repos\ASP.net\Razor Syntax\Razor Syntax\obj\Debug\net8.0\ref\Razor Syntax.dll

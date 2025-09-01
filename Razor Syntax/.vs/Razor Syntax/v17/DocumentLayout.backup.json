@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\my pc\\source\\repos\\ASP.net\\Razor Syntax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D842C78C-B666-411E-B97E-D061410D543C}|Razor Syntax\\Razor Syntax.csproj|c:\\users\\my pc\\source\\repos\\asp.net\\razor syntax\\razor syntax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D842C78C-B666-411E-B97E-D061410D543C}|Razor Syntax\\Razor Syntax.csproj|solutionrelative:razor syntax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\my pc\\source\\repos\\ASP.net\\Razor Syntax\\Razor Syntax\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Razor Syntax\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\my pc\\source\\repos\\ASP.net\\Razor Syntax\\Razor Syntax\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Razor Syntax\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T23:20:47.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

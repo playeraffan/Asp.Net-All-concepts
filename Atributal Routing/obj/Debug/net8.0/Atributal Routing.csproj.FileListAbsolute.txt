@@ -1,0 +1,30 @@
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\bin\Debug\net8.0\appsettings.json
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\bin\Debug\net8.0\Atributal Routing.staticwebassets.runtime.json
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\bin\Debug\net8.0\Atributal Routing.exe
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\bin\Debug\net8.0\Atributal Routing.deps.json
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\bin\Debug\net8.0\Atributal Routing.runtimeconfig.json
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\bin\Debug\net8.0\Atributal Routing.dll
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\bin\Debug\net8.0\Atributal Routing.pdb
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\Atributal Routing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\Atributal Routing.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\Atributal Routing.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\Atributal Routing.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\Atributal Routing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\Atributal Routing.RazorAssemblyInfo.cache
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\Atributal Routing.RazorAssemblyInfo.cs
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\staticwebassets\msbuild.Atributal Routing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\staticwebassets\msbuild.build.Atributal Routing.props
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Atributal Routing.props
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Atributal Routing.props
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\scopedcss\bundle\Atributal Routing.styles.css
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\scopedcss\projectbundle\Atributal Routing.bundle.scp.css
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\Atributal Routing.dll
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\refint\Atributal Routing.dll
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\Atributal Routing.pdb
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\Atributal Routing.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\source\repos\Atributal Routing\obj\Debug\net8.0\ref\Atributal Routing.dll

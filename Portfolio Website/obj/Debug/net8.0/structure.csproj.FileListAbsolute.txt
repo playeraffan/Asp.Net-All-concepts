@@ -1,0 +1,64 @@
+C:\Users\asp.APTECHNK1\source\repos\structure\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\asp.APTECHNK1\source\repos\structure\bin\Debug\net8.0\appsettings.json
+C:\Users\asp.APTECHNK1\source\repos\structure\bin\Debug\net8.0\structure.staticwebassets.runtime.json
+C:\Users\asp.APTECHNK1\source\repos\structure\bin\Debug\net8.0\structure.exe
+C:\Users\asp.APTECHNK1\source\repos\structure\bin\Debug\net8.0\structure.deps.json
+C:\Users\asp.APTECHNK1\source\repos\structure\bin\Debug\net8.0\structure.runtimeconfig.json
+C:\Users\asp.APTECHNK1\source\repos\structure\bin\Debug\net8.0\structure.dll
+C:\Users\asp.APTECHNK1\source\repos\structure\bin\Debug\net8.0\structure.pdb
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\structure.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\structure.AssemblyInfo.cs
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\structure.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\structure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\structure.RazorAssemblyInfo.cache
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\structure.RazorAssemblyInfo.cs
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\staticwebassets\msbuild.structure.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\staticwebassets\msbuild.build.structure.props
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.structure.props
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.structure.props
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\scopedcss\bundle\structure.styles.css
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\scopedcss\projectbundle\structure.bundle.scp.css
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\structure.dll
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\refint\structure.dll
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\structure.pdb
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\structure.genruntimeconfig.cache
+C:\Users\asp.APTECHNK1\source\repos\structure\obj\Debug\net8.0\ref\structure.dll
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\bin\Debug\net8.0\appsettings.json
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\bin\Debug\net8.0\structure.staticwebassets.runtime.json
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\bin\Debug\net8.0\structure.staticwebassets.endpoints.json
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\bin\Debug\net8.0\structure.exe
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\bin\Debug\net8.0\structure.deps.json
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\bin\Debug\net8.0\structure.runtimeconfig.json
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\bin\Debug\net8.0\structure.dll
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\bin\Debug\net8.0\structure.pdb
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\structure.AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\structure.AssemblyInfo.cs
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\structure.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\structure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\structure.RazorAssemblyInfo.cache
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\structure.RazorAssemblyInfo.cs
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\scopedcss\bundle\structure.styles.css
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\scopedcss\projectbundle\structure.bundle.scp.css
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\staticwebassets\msbuild.structure.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\staticwebassets\msbuild.structure.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\staticwebassets\msbuild.build.structure.props
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.structure.props
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.structure.props
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\structure.dll
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\refint\structure.dll
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\structure.pdb
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\structure.genruntimeconfig.cache
+C:\Users\my pc\source\repos\ASP.net\Portfolio Website\obj\Debug\net8.0\ref\structure.dll

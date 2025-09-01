@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Middl Ware (Custom)/1.0.0": {
+        "runtime": {
+          "Middl Ware (Custom).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Middl Ware (Custom)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
